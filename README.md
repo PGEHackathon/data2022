@@ -112,6 +112,6 @@ By March 27th at noon each team must submit:
 
 * **Presentation** - a PowerPoint slide deck .PPTX file for your team's final presentation to our judges. The submitted presentation should follow the format of the provided example presentation [Hackathon_PresentationTemplate](https://github.com/PGEHackathon/resources/blob/master/Hackathon_PresentationTemplate.pptx).
 
-    * the file must be named 'xxxx.pptx' and pushed to GitHub (folder [scoring/presentation](https://github.com/PGEHackathon/data/tree/master/scoring/presentation)) for review by the judges, where **xxxx** is your team name.
+    * the file must be named 'xxxx.pptx' and pushed to GitHub (folder [scoring/presentation](https://github.com/PGEHackathon/scoring/tree/main/reports) for review by the judges, where **xxxx** is your team name.
 
 The Workflow, Presentation submission templates and the results submission template are in the [PGEHackathon/resources](https://github.com/PGEHackathon/resources).
