@@ -8,6 +8,6 @@ jobs:
         shell: bash -l {0}
         run: |
           curl --request POST \
-          --url 'https://api.github.com/repos/PGEHackation/scoring/dispatches' \
+          --url 'https://api.github.com/repos/PGEHackathon/scoring/dispatches' \
           --header 'authorization: Bearer ${{secrets.PGEHACKATHON_SECRET_TOKEN}}' \
           --data '{"event_type": "trigger"}'
