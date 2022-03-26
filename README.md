@@ -40,7 +40,8 @@ Specifications of the reservoir unit of interest:
 * **Depositional Setting**: turbidite channel system with two vertically stacked flow units (upper and lower). 
 * **Structure**: both upper and lower units are disected by fault that crosses the reservoir (see location and equation on the image below). 
 
-![image](https://user-images.githubusercontent.com/95392867/160241499-d76f4627-db2e-4ba2-a90d-481c30826dec.png)
+![image](https://user-images.githubusercontent.com/95392867/160241526-b743b068-0447-4b0c-891d-0d554a02d95c.png)
+
 
 * **Wells**: 50 approximately vertical wells (you can assume vertical) were drilled across the reservoir and completed throughout upper or lower completion intervals. The reservoir has been produced since 2012. Due to the drilling sequence and field management issues, 50 wells produced oil for different time periods from 2012 until present. Given the increasing oil price, the company has decided to add 3 infill wells in the reservoir to explore sweet spots that have been left over during previous development stage in order to increase the production over the next 2 years.
 
